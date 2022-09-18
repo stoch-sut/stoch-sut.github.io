@@ -9,7 +9,7 @@ categories:
 nav: true
 nav_order: 3
 ---
-| Number | Name                                                    | Link                                   |
-| ----   | ------------------------------------------------------- | -------------------------------------- |
+| Number | &nbsp; &nbsp; Name                                                    | Link                                   |
+| :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; PROBABILITY, RANDOM VARIABLES, AND STOCHASTIC PROCESSES &nbsp; &nbsp;| <a href='/assets/zip/papoulis.zip'>link</a> |
 
