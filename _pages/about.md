@@ -2,7 +2,7 @@
 layout: about
 title: Stochastic Processes
 permalink: /
-subtitle: <a href='http://sharif.edu/~rabiee/'>Instructor</a> Hamid R. Rabiee
+subtitle: Instructor <a href='http://sharif.edu/~rabiee/'>Hamid R. Rabiee</a> 
 
 profile:
   align: right
@@ -21,6 +21,7 @@ This course covers the analysis of stochastic proceses as a random process and t
 
 Newly uploaded documents are available at news section.
 
-You can downlowd course syllabus <a href="/assets/pdf/syllabus-fall2022.pdf">here</a>. <br/>
+You can downlowd course syllabus [here](/assets/pdf/syllabus-fall2022.pdf).
+
 You can also download main text book from <a href="/assets/zip/papoulis.zip">here</a>.
 
