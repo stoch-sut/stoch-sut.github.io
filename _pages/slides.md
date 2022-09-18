@@ -9,6 +9,6 @@ categories:
 nav: true
 nav_order: 2
 ---
-| Week | Name                                                        | Link                                                                                     |
+| Week | &nbsp; &nbsp; Name                                                        | Link                                                                                     |
 | :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: |
-| 01   | Review Probability and Introduction to Stochastic Processes | <a href='/assets/pdf/slides/Fall-2022-SP_Week_01_Review_Probability_Intro_SP_v2.pdf'>link</a> |
+| 01   | &nbsp; &nbsp; Review Probability and Introduction to Stochastic Processes &nbsp; &nbsp; | <a href='/assets/pdf/slides/Fall-2022-SP_Week_01_Review_Probability_Intro_SP_v2.pdf'>link</a> |
