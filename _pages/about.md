@@ -21,6 +21,6 @@ This course covers the analysis of stochastic proceses as a random process and t
 
 Newly uploaded documents are available at news section.
 
-You can downlowd course syllabus <a href="/assets/pdf/syllabus-fall2022.pdf">here</a>.
+You can downlowd course syllabus <a href="/assets/pdf/syllabus-fall2022.pdf">here</a>. </br>
 You can also download main text book from <a href="/assets/zip/papoulis.zip">here</a>.
 
