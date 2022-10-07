@@ -10,11 +10,13 @@ nav: true
 nav_order: 3
 ---
 # Books
+
 | Number | &nbsp; &nbsp; Name                                                    | Link                                   |
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; PROBABILITY, RANDOM VARIABLES, AND STOCHASTIC PROCESSES &nbsp; &nbsp;| <a href='/assets/zip/papoulis.zip'>link</a> |
 
 # Course Videos
+
 | Session | &nbsp; &nbsp; Name                                                    | Link                                   |
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
 | 03     | &nbsp; &nbsp; Stochastic Processes &nbsp; &nbsp;| <a href='https://drive.google.com/file/d/1MXlMuFPIerEgaA0LvRbX4igpwoQWu9dX/view?usp=sharing'>link</a> |
