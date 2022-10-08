@@ -9,7 +9,7 @@ categories:
 nav: true
 nav_order: 3
 ---
-# Books
+## Books
 
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
@@ -17,7 +17,7 @@ nav_order: 3
 
 
 
-# Course Videos
+## Course Videos
 
 | Session | &nbsp; &nbsp; Name                                                    | Link                                   |
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
@@ -26,7 +26,7 @@ nav_order: 3
 | 05     | &nbsp; &nbsp; Ergodic Processes and Stochastic Analysis of LTI Systems &nbsp; &nbsp;| <a href='https://drive.google.com/file/d/1tXXS8DwcQvLd6_8tgqIfmciUdXIwjk4o/view?usp=sharing'>link</a> |
 | 06     | &nbsp; &nbsp; Power Spectrum &nbsp; &nbsp;| <a href='https://drive.google.com/file/d/1QI723iCXIkvTgyFDDWVRWNp8ju5WG_iH/view?usp=sharing'>link</a> |
 
-# TA Classes Problems
+## TA Classes Problems
 
 | Session | &nbsp; &nbsp; Name                                                    | Link                                   |
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
