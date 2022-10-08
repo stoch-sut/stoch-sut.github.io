@@ -27,6 +27,7 @@ nav_order: 3
 | 06     | &nbsp; &nbsp; Power Spectrum &nbsp; &nbsp;| <a href='https://drive.google.com/file/d/1QI723iCXIkvTgyFDDWVRWNp8ju5WG_iH/view?usp=sharing'>link</a> |
 
 # TA Classes Problems
+
 | Session | &nbsp; &nbsp; Name                                                    | Link                                   |
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Probability Theory &nbsp; &nbsp;| <a href='/assets/pdf/ta_classes/Stoch_Fall2020_TA_Class_1.pdf'>link</a> |
