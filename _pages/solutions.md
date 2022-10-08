@@ -9,4 +9,6 @@ categories:
 nav: true
 nav_order: 4
 ---
-## No Solutions yet
+| Number | &nbsp; &nbsp; Topic                                                        | Link                                                                                     |
+| :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: |
+| 01   | &nbsp; &nbsp; Review Probability Theory &nbsp; &nbsp; | <a href='/assets/pdf/homeworks/Stoch_Fall2022_HW1_Solution.pdf'>link</a> |
