@@ -31,3 +31,4 @@ nav_order: 3
 | Session | &nbsp; &nbsp; Name                                                    | Link                                   |
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Probability Theory &nbsp; &nbsp;| <a href='/assets/pdf/ta_classes/Stoch_Fall2020_TA_Class_1.pdf'>link</a> |
+| 02     | &nbsp; &nbsp; Stationary Stochastic Processes &nbsp; &nbsp;| <a href='/assets/pdf/ta_classes/Stoch_Fall2020_TA_Class_2.pdf'>link</a> |
