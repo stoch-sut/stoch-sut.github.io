@@ -19,5 +19,5 @@ nav_order: 4
 
 | Number | &nbsp; &nbsp; Topic                                                        | Link                                                                                     |
 | :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: |
-| 01-IC   | &nbsp; &nbsp; Stationary Stochastic Processes &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Stoch_Fall2022_Quiz1-IC_Solutions'>link</a> |
+| 01-IC   | &nbsp; &nbsp; Stationary Stochastic Processes &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Stoch_Fall2022_Quiz1-IC_Solutions.pdf'>link</a> |
 | 01-TH   | &nbsp; &nbsp; Review Probability Theory &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Stoch_Fall2022_Quiz1-TH_Solution.pdf'>link</a> |
