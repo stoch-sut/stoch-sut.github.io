@@ -16,3 +16,5 @@ nav_order: 2
 | 03   | &nbsp; &nbsp; Ergodic Stochastic Processes and Stochastic Analysis of LTI Systems &nbsp; &nbsp; | <a href='/assets/pdf/slides/Fall-2022-SP_Week_03_ESP_SLTI_PS_v2_3.pdf'>link</a> |
 | 04   | &nbsp; &nbsp; Poisson Processes and Point Processes &nbsp; &nbsp; | <a href='/assets/pdf/slides/Fall-2022-SP-Week_04_PP_PP_v2.pdf'>link</a> |
 | 05   | &nbsp; &nbsp; Gaussian Processes &nbsp; &nbsp; | <a href='/assets/pdf/slides/Fall-2022-SP_GP_Week05_v2.pdf'>link</a> |
+| 06   | &nbsp; &nbsp; Estimation Theory &nbsp; &nbsp; | <a href='/assets/pdf/slides/Fall-2022_SP_ET_Week06_v2.pdf'>link</a> |
+
