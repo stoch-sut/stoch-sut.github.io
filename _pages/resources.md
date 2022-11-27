@@ -40,3 +40,11 @@ nav_order: 3
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Probability Theory &nbsp; &nbsp;| <a href='/assets/pdf/ta_classes/Stoch_Fall2020_TA_Class_1.pdf'>link</a> |
 | 02     | &nbsp; &nbsp; Stationary Stochastic Processes &nbsp; &nbsp;| <a href='/assets/pdf/ta_classes/Stoch_Fall2020_TA_Class_2.pdf'>link</a> |
+
+
+
+## Extra resources
+| Number | &nbsp; &nbsp; Topic                                                    | Link                                   |
+| :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
+| 01     | &nbsp; &nbsp; Temporal Point Processes &nbsp; &nbsp;| <a href='/assets/pdf/handouts/temporal.pdf'>link</a> |
+
