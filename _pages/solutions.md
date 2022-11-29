@@ -15,6 +15,8 @@ nav_order: 4
 | :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: |
 | 01   | &nbsp; &nbsp; Review Probability Theory &nbsp; &nbsp; | <a href='/assets/pdf/homeworks/Stoch_Fall2022_HW1_Solution.pdf'>link</a> |
 | 02   | &nbsp; &nbsp; Stationary Stochastic Processes &nbsp; &nbsp; | <a href='/assets/pdf/homeworks/Stoch_Fall2022_HW2_Solutions.pdf'>link</a> |
+| 03   | &nbsp; &nbsp; Point Processes and Gaussian Processes &nbsp; &nbsp; | <a href='/assets/pdf/homeworks/Stoch_Fall2022_HW3_Solutions.pdf'>link</a> |
+
 
 # Quizes
 
@@ -24,3 +26,6 @@ nav_order: 4
 | 01-TH   | &nbsp; &nbsp; Review Probability Theory &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Stoch_Fall2022_Quiz1-TH_Solution.pdf'>link</a> |
 | 02   | &nbsp; &nbsp; Ergodicity + LTI  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/stoch_fall2022_Quiz2_solutions.pdf'>link</a> |
 | 03   | &nbsp; &nbsp; LTI + Power Spectrum  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/stoch_fall2022_Quiz3_solutions.pdf'>link</a> |
+| 04   | &nbsp; &nbsp; Poisson Processes  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/stoch-fall2022-Quiz4-poisson-solutions.pdf'>link</a> |
+| 05   | &nbsp; &nbsp; Gaussian Processes  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Quiz-Gaussian-Sol.pdf'>link</a> |
+
