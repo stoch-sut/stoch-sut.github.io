@@ -16,5 +16,4 @@ nav_order: 1
 | 03   | &nbsp; &nbsp; Ergodicity and LTI Systems &nbsp; &nbsp; | <a href='/assets/pdf/homeworks/Stoch_Fall2022_HW3.pdf'>link</a> |  &nbsp; &nbsp; 08/20 |
 | P1   | &nbsp; &nbsp; Gaussian and Poisson Processes &nbsp; &nbsp; | <a href='/assets/zip/Stoch_Fall2022_PHW1.zip'>link</a> |  &nbsp; &nbsp; 09/15 |
 | 04   | &nbsp; &nbsp; Gaussian and Poisson Processes &nbsp; &nbsp; | <a href='/assets/pdf/homeworks/Stoch-Fall2022-HW4.pdf'>link</a> |  &nbsp; &nbsp; 09/18 |
-
-
+| 05   | &nbsp; &nbsp; Estimation Theory &nbsp; &nbsp; | <a href='/assets/pdf/homeworks/stoch-fall2022_HW5.pdf'>link</a> |  &nbsp; &nbsp; 10/09 |
