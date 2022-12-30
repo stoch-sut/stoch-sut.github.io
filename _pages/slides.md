@@ -18,4 +18,6 @@ nav_order: 2
 | 05   | &nbsp; &nbsp; Gaussian Processes &nbsp; &nbsp; | <a href='/assets/pdf/slides/Fall-2022-SP_GP_Week05_v2.pdf'>link</a> |
 | 06   | &nbsp; &nbsp; Estimation Theory &nbsp; &nbsp; | <a href='/assets/pdf/slides/Fall-2022_SP_ET_Week06_v2.pdf'>link</a> |
 | 07   | &nbsp; &nbsp; Estimation Theory 2 &nbsp; &nbsp; | <a href='/assets/pdf/slides/Fall-2022_SP_ET_Week07_v2.pdf'>link</a> |
+| 08   | &nbsp; &nbsp; Hypothesis Testing &nbsp; &nbsp; | <a href='/assets/pdf/slides/Fall-2022_SP_HT_Week08_v2.pptx.pdf'>link</a> |
+
 
