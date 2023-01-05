@@ -44,6 +44,7 @@ nav_order: 3
 
 
 ## Extra resources
+
 | Number | &nbsp; &nbsp; Topic                                                    | Link                                   |
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Temporal Point Processes &nbsp; &nbsp;| <a href='/assets/pdf/handouts/temporal.pdf'>link</a> |
