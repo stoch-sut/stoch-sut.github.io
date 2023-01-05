@@ -19,3 +19,9 @@ nav_order: 1
 | 05   | &nbsp; &nbsp; Estimation Theory &nbsp; &nbsp; | <a href='/assets/pdf/homeworks/stoch-fall2022_HW5.pdf'>link</a> |  &nbsp; &nbsp; 10/09 |
 | 06   | &nbsp; &nbsp; Markov Chains &nbsp; &nbsp; | <a href='/assets/pdf/homeworks/Stoch-Fall2022-HW6.pdf'>link</a> |  &nbsp; &nbsp; 10/23 |
 
+
+# Course Project
+
+| Number | &nbsp; &nbsp; Topic                                                        | Link                                                                                     |  &nbsp; &nbsp; Deadline
+| :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: | ----------: |
+| 01   | &nbsp; &nbsp; HMM and Sampling &nbsp; &nbsp; | <a href='/assets/zip/Stoch-Fall2022_Project.zip'>link</a> |  &nbsp; &nbsp; 11/04 |
