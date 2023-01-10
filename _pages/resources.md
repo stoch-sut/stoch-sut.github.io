@@ -61,4 +61,5 @@ nav_order: 3
 | Number | &nbsp; &nbsp; Topic                                                    | Link                                   |
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Temporal Point Processes &nbsp; &nbsp;| <a href='/assets/pdf/handouts/temporal.pdf'>link</a> |
+| 02     | &nbsp; &nbsp; Markov Chains &nbsp; &nbsp;| <a href='/assets/pdf/markov.pdf'>link</a> |
 
