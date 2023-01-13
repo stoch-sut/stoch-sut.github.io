@@ -28,4 +28,9 @@ nav_order: 4
 | 03   | &nbsp; &nbsp; LTI + Power Spectrum  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/stoch_fall2022_Quiz3_solutions.pdf'>link</a> |
 | 04   | &nbsp; &nbsp; Poisson Processes  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/stoch-fall2022-Quiz4-poisson-solutions.pdf'>link</a> |
 | 05   | &nbsp; &nbsp; Gaussian Processes  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Quiz-Gaussian-Sol.pdf'>link</a> |
+| 06   | &nbsp; &nbsp; Estimation Theory 1  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Stoch_Fall2022_Quiz6_solutions.pdf'>link</a> |
+| 07   | &nbsp; &nbsp; Estimation Theory 2 &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Stoch_Fall2022_Quiz7_solutions.pdf'>link</a> |
+| 08   | &nbsp; &nbsp; Estimation Theory 3  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Stoch_Fall2022_Quiz8_solutions.pdf'>link</a> |
+| 09   | &nbsp; &nbsp; Hypothesis Testing  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Stoch_Fall2022_Quiz9_solutions.pdf'>link</a> |
+| 10   | &nbsp; &nbsp; Markov Chains and HMM  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Stoch_Fall2022_Quiz10_solutions.pdf'>link</a> |
 
