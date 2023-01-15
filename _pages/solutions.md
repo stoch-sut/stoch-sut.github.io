@@ -34,3 +34,9 @@ nav_order: 4
 | 09   | &nbsp; &nbsp; Hypothesis Testing  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Stoch_Fall2022_Quiz9_solutions.pdf'>link</a> |
 | 10   | &nbsp; &nbsp; Markov Chains and HMM  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/Stoch_Fall2022_Quiz10_solutions.pdf'>link</a> |
 
+# Midterm Solutions
+
+| Number | &nbsp; &nbsp; Topic                                                        | Link                                                                                     |
+| :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: |
+| 1   | &nbsp; &nbsp; Midterm  &nbsp; &nbsp; | <a href='/assets/pdf/solutions/stoch-fall2022-midterm-sol.pdf'>link</a> |
+
