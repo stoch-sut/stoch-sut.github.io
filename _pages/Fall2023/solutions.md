@@ -4,7 +4,7 @@ title:  Solutions
 permalink: /solutions/
 date:   2022-09-18
 description: quiz and homework solutions
-tags:
+tags: Fall2023
 categories:
 nav: true
 nav_order: 4

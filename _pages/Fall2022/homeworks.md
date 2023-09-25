@@ -4,7 +4,7 @@ title:  Homeworks
 permalink: /Fall2022/hw/
 date:   2022-09-18
 description: homeworks section
-tags:
+tags: Fall2022
 categories:
 nav: true
 nav_order: 1

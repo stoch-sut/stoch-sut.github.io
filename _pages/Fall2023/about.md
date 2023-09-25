@@ -3,6 +3,7 @@ layout: about
 title: Stochastic Processes
 permalink: /
 subtitle: Instructor <a href='http://sharif.edu/~rabiee/'>Hamid R. Rabiee</a>
+tags: Fall2023
 
 profile:
   align: right
