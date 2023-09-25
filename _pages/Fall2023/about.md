@@ -20,6 +20,11 @@ social: false  # includes social icons at the bottom of the page -->
 ---
 This course covers the analysis of stochastic proceses as a random process and their different forms and examples are discussed. Also some relavant subjects such as estimation theory and hypothesis are compehensively studied.
 
-You can downlowd course syllabus [here](/assets/Fall2023/pdf/Stoch_2022_Syllabus_v2.pdf).
+You can downlowd course syllabus [here](/assets/Fall2023/pdf/Fall-2023_Syllabus_Stocahstic_Processes_Rabiee.pdf).
 
 You can also download main text book from <a href="/assets/Fall2023/zip/papoulis.zip">here</a>.
+
+<h3>Previous Offerings</h3>
+<ul>
+<li>::marker <a href="/Fall2022">Fall 2022</a> </li>
+</ul>
