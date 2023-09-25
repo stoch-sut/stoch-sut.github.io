@@ -22,7 +22,7 @@ nav_order: 3
 | Session | &nbsp; &nbsp; Name                                                    | Link                                   |
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Review of Probability &nbsp; &nbsp;| <a href='https://drive.google.com/u/0/uc?export=download&confirm=1NgE&id=1Gza3ec9Tbe1SlQpcSOMiGl_lGcGCCCLq'>link</a> |
-| 02     | &nbsp; &nbsp; Introduction to Stochastic Processes &nbsp; &nbsp;| <a href='https://drive.google.com/u/0/uc?export=download&confirm=9mRv&id=1yzKtuWumx_R7phEGZPd3YbwkYilybJpZ'>link</a> |
+<!-- | 02     | &nbsp; &nbsp; Introduction to Stochastic Processes &nbsp; &nbsp;| <a href='https://drive.google.com/u/0/uc?export=download&confirm=9mRv&id=1yzKtuWumx_R7phEGZPd3YbwkYilybJpZ'>link</a> |
 | 03     | &nbsp; &nbsp; Stochastic Processes &nbsp; &nbsp;| <a href='https://drive.google.com/file/d/1MXlMuFPIerEgaA0LvRbX4igpwoQWu9dX/view?usp=sharing'>link</a> |
 | 04     | &nbsp; &nbsp; Stationary Stochastic Processes &nbsp; &nbsp;| <a href='https://drive.google.com/file/d/14Gvs4kk6EyjSzUW_cpuIQ-I2SF31nNOJ/view?usp=sharing'>link</a> |
 | 05     | &nbsp; &nbsp; Ergodic Processes and Stochastic Analysis of LTI Systems &nbsp; &nbsp;| <a href='https://drive.google.com/file/d/1tXXS8DwcQvLd6_8tgqIfmciUdXIwjk4o/view?usp=sharing'>link</a> |
@@ -41,7 +41,7 @@ nav_order: 3
 | 18     | &nbsp; &nbsp; Markov Chains and HMM 2 &nbsp; &nbsp;| <a href='https://drive.google.com/u/4/uc?export=download&confirm=sagJ&id=17ma-SjPoLDhveAJBErY1XYfyWsjLn7d9'>link</a> |
 | 19     | &nbsp; &nbsp; Markov Chains and HMM 3 &nbsp; &nbsp;| <a href='https://drive.google.com/u/4/uc?export=download&confirm=oRBq&id=1e6iDnLwMpabGzRQkZY54B3rEazAiTy16'>link</a> |
 | 20     | &nbsp; &nbsp; Sampling (Motivation) &nbsp; &nbsp;| <a href='https://drive.google.com/uc?export=download&id=1Ek_0Yx67JQwzmYkDKHbgPoIy8O5vE1Te'>link</a> |
-| 21     | &nbsp; &nbsp; Sampling &nbsp; &nbsp;| <a href='https://drive.google.com/u/4/uc?export=download&confirm=eUqZ&id=1qZ0E_DCiW_Odk3ELRZbcGhJDv2sfPLwq'>link</a> |
+| 21     | &nbsp; &nbsp; Sampling &nbsp; &nbsp;| <a href='https://drive.google.com/u/4/uc?export=download&confirm=eUqZ&id=1qZ0E_DCiW_Odk3ELRZbcGhJDv2sfPLwq'>link</a> | -->
 
 
 
@@ -51,8 +51,8 @@ nav_order: 3
 
 | Session | &nbsp; &nbsp; Name                                                    | Link                                   |
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
-| 01     | &nbsp; &nbsp; Probability Theory &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/ta_classes/Stoch_Fall2020_TA_Class_1.pdf'>link</a> |
-| 02     | &nbsp; &nbsp; Stationary Stochastic Processes &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/ta_classes/Stoch_Fall2020_TA_Class_2.pdf'>link</a> |
+<!-- | 01     | &nbsp; &nbsp; Probability Theory &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/ta_classes/Stoch_Fall2020_TA_Class_1.pdf'>link</a> |
+| 02     | &nbsp; &nbsp; Stationary Stochastic Processes &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/ta_classes/Stoch_Fall2020_TA_Class_2.pdf'>link</a> | -->
 
 
 
@@ -60,5 +60,5 @@ nav_order: 3
 
 | Number | &nbsp; &nbsp; Topic                                                    | Link                                   |
 | :----   | :--------------------------------------------------------------- | ---------------------------------------------: |
-| 01     | &nbsp; &nbsp; Temporal Point Processes &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/handouts/temporal.pdf'>link</a> |
-| 02     | &nbsp; &nbsp; Markov Chains &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/markov.pdf'>link</a> |
+<!-- | 01     | &nbsp; &nbsp; Temporal Point Processes &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/handouts/temporal.pdf'>link</a> |
+| 02     | &nbsp; &nbsp; Markov Chains &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/markov.pdf'>link</a> | -->
