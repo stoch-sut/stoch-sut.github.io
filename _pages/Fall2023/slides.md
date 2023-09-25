@@ -11,4 +11,4 @@ nav_order: 2
 ---
 | Week | &nbsp; &nbsp; Name                                                        | Link                                                                                     |
 | :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: |
-| 01   | &nbsp; &nbsp; Review Probability and Introduction to Stochastic Processes &nbsp; &nbsp; | <a href='/assets/Fall2023/pdf/slides/Fall-2023_Syllabus_Stocahstic_Processes_Rabiee.pdf'>link</a> |
+| 01   | &nbsp; &nbsp; Review Probability and Introduction to Stochastic Processes &nbsp; &nbsp; | <a href='/assets/Fall2023/pdf/Fall-2023-SP_Week_01_Review_Probability_Intro_SP.pdf'>link</a> |
