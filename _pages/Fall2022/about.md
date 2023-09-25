@@ -3,7 +3,7 @@ layout: about
 title: Stochastic Processes, Fall 2022
 permalink: /Fall2022
 tags: Fall2022
-subtitle: Instructor <a href='http://sharif.edu/~rabiee/'>Hamid R. Rabiee</a>
+subtitle: Fall 2022 <br> Instructor <a href='http://sharif.edu/~rabiee/'>Hamid R. Rabiee</a>
 
 profile:
   align: right
