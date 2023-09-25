@@ -26,5 +26,5 @@ You can also download main text book from <a href="/assets/Fall2023/zip/papoulis
 
 <h3>Previous Offerings</h3>
 <ul>
-<li>::marker <a href="/Fall2022">Fall 2022</a> </li>
+<li><a href="/Fall2022">Fall 2022</a> </li>
 </ul>

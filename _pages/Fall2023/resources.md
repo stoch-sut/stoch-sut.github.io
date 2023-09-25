@@ -17,23 +17,13 @@ nav_order: 3
 
 
 
-<!-- ## Course Videos -->
-
-<!-- | Session | &nbsp; &nbsp; Name                                                    | Link                                   |
-| :----   | :--------------------------------------------------------------- | ---------------------------------------------: | -->
+## Course Videos
+<p>Course videos will be uploaded here</p>
 
 
+## TA Classes Problems
+<p>TA classes problems will be uploaded here</p>
 
 
-
-<!-- ## TA Classes Problems
-
-| Session | &nbsp; &nbsp; Name                                                    | Link                                   |
-| :----   | :--------------------------------------------------------------- | ---------------------------------------------: | -->
-
-
-
-<!-- ## Extra resources
-
-| Number | &nbsp; &nbsp; Topic                                                    | Link                                   |
-| :----   | :--------------------------------------------------------------- | ---------------------------------------------: | -->
+## Extra Resources
+<p>Extra resources will be uploaded here</p>
