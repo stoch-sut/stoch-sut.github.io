@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: false
+tags: Fall2023
 nav_order: 5
 ---
 

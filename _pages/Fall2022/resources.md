@@ -4,7 +4,7 @@ title:  Resources
 permalink: /Fall2022/resources/
 date:   2022-09-18
 description: textbooks and handouts
-tags:
+tags: Fall2022
 categories:
 nav: true
 nav_order: 3

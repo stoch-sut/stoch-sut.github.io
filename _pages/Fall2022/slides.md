@@ -4,7 +4,7 @@ title:  Course Slides
 permalink: /Fall2022/slides/
 date:   2022-09-18
 description: course slides section
-tags:
+tags: Fall2022
 categories:
 nav: true
 nav_order: 2
