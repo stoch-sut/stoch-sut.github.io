@@ -17,9 +17,7 @@
         {{- site.last_name -}}
         {%- endif -%}
         {%- else -%}
-        {% with add:site.title|", "|add:page.tags as page_title %}
-        {{- page_title -}}
-        {% endwith %}
+        {{- add:site.title|", "|add:page.tags -}}
         {%- endif -%}
       </a>
       {%- elsif site.enable_navbar_social -%}
