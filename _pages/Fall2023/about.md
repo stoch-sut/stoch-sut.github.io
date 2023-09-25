@@ -34,12 +34,12 @@ You can also download main text book from <a href="/assets/Fall2023/zip/papoulis
     <div style="flex: 1; padding: 3px;">
         <ul>
             <li> <a href="mailto:zahraDehghanian97@gmail.com, zahraDehghanian97@gmail.com">Zahra Dehghanian</a> </li>
-            <li> <a href="mailto:ostadmohammadi@ce.sharif.edu">Mohammad Ostadmohammadi</a> </li>
+            <li> <a href="mailto:rafiei.mina73@gmail.com">Mina Rafiee</a> </li>
             <li> <a href="mailto:rassa.gh@gmail.com">Rassa Ghavami</a> </li>
             <li> <a href="mailto:smjfas@gmail.com">Mohamadjavad Feizabadisani</a> </li>
             <li> <a href="mailto:sarafraz@ce.sharif.edu">Gita Sarafraz</a> </li>
             <li> <a href="mailto:arminbehnamnia@gmail.com">Armin Behnamnia</a> </li>
-            <li> <a href="mailto:rafiei.mina73@gmail.com">Mina Rafiee</a> </li>
+            <li> <a href="mailto:ostadmohammadi@ce.sharif.edu">Mohammad Ostadmohammadi</a> </li>
         </ul>
     </div>
     <div style="flex: 1; padding: 3px;">
