@@ -22,7 +22,7 @@ This course covers the analysis of stochastic proceses as a random process and t
 
 You can downlowd course syllabus <a href="/assets/Fall2023/pdf/Fall-2023_Syllabus_Stocahstic_Processes_Rabiee.pdf">here</a>.
 
-You can also download main text book from <a href="/assets/Fall2023/zip/papoulis.zip">here</a>.
+You can also download main text book from <a href="/assets/Fall2023/zip/papoulis2023.zip">here</a>.
 
 <h4>Previous Offerings</h4>
 <ul>
