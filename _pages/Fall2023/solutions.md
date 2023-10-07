@@ -15,5 +15,5 @@ nav_order: 4
 # Quizes
 <p>Quizes solutions will be uploaded here</p>
 
-# Midterm Solutions
+# Midterm
 <p>Midterm solutions will be uploaded here</p>
