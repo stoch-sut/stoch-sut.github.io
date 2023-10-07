@@ -12,7 +12,11 @@
       {% assign news_limit = news_size %}
       {% endif %}
       {% for item in news limit: news_limit %}
+<<<<<<< HEAD
       {% if item.tags == "Fall2023" %}
+=======
+      {% if item.tags == page.tags %}
+>>>>>>> 4c5425f8875ac32abcb3190e85989a09705c3f9b
       <tr>
         <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
         <td>
