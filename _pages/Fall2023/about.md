@@ -24,11 +24,6 @@ You can downlowd course syllabus <a href="/assets/Fall2023/pdf/Fall-2023_Syllabu
 
 You can also download main text book from <a href="/assets/Fall2023/zip/papoulis2023.zip">here</a>.
 
-<h4>Previous Offerings</h4>
-<ul>
-<li><a href="/Fall2022">Fall 2022</a> </li>
-</ul>
-
 <h4>Staff</h4>
 <div style="display: flex;">
     <div style="flex: 1; padding: 3px;">

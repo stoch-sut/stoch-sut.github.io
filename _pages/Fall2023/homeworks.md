@@ -9,7 +9,9 @@ categories:
 nav: true
 nav_order: 1
 ---
-<p>Homeworks will be uploaded here</p>
+| Number | &nbsp; &nbsp; Topic                                                        | Link                                                                                     |  &nbsp; &nbsp; Deadline
+| :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: | ----------: |
+| 01   | &nbsp; &nbsp; Review Probability Theory &nbsp; &nbsp; | <a href='/assets/Fall2023/pdf/HW1_SP_2023.pdf'>link</a> |  &nbsp; &nbsp; Not Graded |
 
 
 # Course Project

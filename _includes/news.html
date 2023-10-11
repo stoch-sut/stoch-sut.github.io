@@ -12,7 +12,6 @@
       {% assign news_limit = news_size %}
       {% endif %}
       {% for item in news limit: news_limit %}
-      {% if item.tags == "Fall2023" %}
       <tr>
         <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
         <td>
@@ -23,7 +22,6 @@
           {%- endif %}
         </td>
       </tr>
-      {% endif %}
       {%- endfor %}
     </table>
   </div>
