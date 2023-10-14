@@ -13,6 +13,7 @@ nav_order: 4
 <p>Homeworks solutions will be uploaded here</p>
 
 # Quizes
+
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Solution of Quiz0 (Prerequisite Quiz) &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz0_solution.pdf'>link</a> |
