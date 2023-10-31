@@ -20,7 +20,7 @@ nav_order: 4
 | 02     | &nbsp; &nbsp; Quiz1 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz1_solution.pdf'>link</a> |
 | 03     | &nbsp; &nbsp; Quiz2 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz2_solution.pdf'>link</a> |
 | 04     | &nbsp; &nbsp; Quiz3 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz3_solution.pdf'>link</a> |
-| 05     | &nbsp; &nbsp; Quiz3 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz4_solution.pdf'>link</a> |
+| 05     | &nbsp; &nbsp; Quiz4 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz4_solution.pdf'>link</a> |
 
 
 
