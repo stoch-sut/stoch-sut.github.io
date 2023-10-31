@@ -26,6 +26,7 @@ nav_order: 3
 -->
 
 ## Extra Resources
+
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Lecture Slides for Signals and Systems &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/lecture_slides_for_signals_and_systems.pdf'>link</a> |
