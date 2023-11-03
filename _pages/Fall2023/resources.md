@@ -13,7 +13,7 @@ nav_order: 3
 
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
-| 01     | &nbsp; &nbsp; PROBABILITY, RANDOM VARIABLES, AND STOCHASTIC PROCESSES &nbsp; &nbsp;| <a href='/assets/Fall2023/zip/papoulis2023.zip'>link</a> |
+| 01     | &nbsp; &nbsp; PROBABILITY, RANDOM VARIABLES, AND STOCHASTIC PROCESSES &nbsp; &nbsp;| <a href='/assets/Fall2023/zip/papoulis.zip'>link</a> |
 
 
 <!---
