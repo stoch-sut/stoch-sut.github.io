@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Previous Semesters 
+title:  Archive
 permalink: /prev/
 date:   2023-09-25
 description: previous semesters  section
