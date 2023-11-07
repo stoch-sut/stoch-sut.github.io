@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Homeworks
+title:  Homework
 permalink: /hw/
 date:   2022-09-18
-description: homeworks section
+description: homework section
 tags: Fall2023
 categories:
 nav: true
@@ -19,7 +19,7 @@ nav_order: 1
 
 | Number | &nbsp; &nbsp; Topic                                                        | Link                                                                                     |  &nbsp; &nbsp; Deadline
 | :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: | ----------: |
-| 01   | &nbsp; &nbsp; Practical Homework 1 &nbsp; &nbsp; | <a href='/assets/Fall2023/zip/PHW1_SP_2023.pdf'>link</a> |  &nbsp; &nbsp; 09/05 |
+| 01   | &nbsp; &nbsp; Practical Homework 1 &nbsp; &nbsp; | <a href='/assets/Fall2023/zip/PHW1_SP_2023.zip'>link</a> |  &nbsp; &nbsp; 09/05 |
 
 
 # Course Project
