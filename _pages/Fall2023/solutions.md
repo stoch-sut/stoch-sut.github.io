@@ -9,7 +9,7 @@ categories:
 nav: true
 nav_order: 4
 ---
-# Homework
+# Theoretical Homework
 
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
