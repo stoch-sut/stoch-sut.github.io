@@ -13,4 +13,4 @@ nav_order: 5
 
 | Semester                                                        | Link                                                                                     
 |--------------------------------------------------------------------- |----------: |
-| &nbsp; &nbsp; Fall 2022 &nbsp; &nbsp; | <a href='/Fall2022'>link</a>|
+| Fall 2022 | <a href='/Fall2022'>link</a>|
