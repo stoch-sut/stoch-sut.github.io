@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Stochastic Processes, Fall 2023
+title: Stochastic Processes
 permalink: /
 tags: Fall2023
 subtitle: Fall 2023 <br> Instructor <a href='http://sharif.edu/~rabiee/'>Hamid R. Rabiee</a>
