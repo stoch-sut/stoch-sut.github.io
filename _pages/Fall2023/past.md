@@ -9,7 +9,7 @@ categories:
 nav: true
 nav_order: 5
 ---
-# Theoretical Homework
+# Previous Semesters Pages
 
 | &nbsp; &nbsp; Semester &nbsp; &nbsp;   | &nbsp; Link  &nbsp; |
 |---------------------------------------|----------: |
