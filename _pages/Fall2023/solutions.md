@@ -9,8 +9,12 @@ categories:
 nav: true
 nav_order: 4
 ---
-# Homeworks
-<p>Homeworks solutions will be uploaded here</p>
+# Homework
+
+| Number | &nbsp; &nbsp; Name                                                | Link                                           |
+| :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
+| 01     | &nbsp; &nbsp; HW1 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/HW1_SP_2023_Sol.pdf'>link</a> |
+
 
 # Quizes
 
