@@ -24,6 +24,6 @@ nav_order: 1
 | 01   | &nbsp; &nbsp; Practical Homework 1 &nbsp; &nbsp; | <a href='/assets/Fall2023/zip/PHW1_SP_2023.zip'>link</a> |  &nbsp; &nbsp; 09/05 |
 
 
-# Course Project
+<!--# Course Project
 
-<p>Course project will be uploaded here</p>
+<p>Course project will be uploaded here</p> -->
