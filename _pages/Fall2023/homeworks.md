@@ -2,7 +2,7 @@
 layout: post
 title:  Homework
 permalink: /hw/
-date:   2022-09-18
+date:   2023-09-23
 description: homework section
 tags: Fall2023
 categories:
