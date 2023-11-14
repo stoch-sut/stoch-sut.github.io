@@ -33,6 +33,7 @@ nav_order: 3
 | 02     | &nbsp; &nbsp; An Introduction to the Theory of Point Processes &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/daley_d.j._vere-jones_d._an_intro_to_the_theory_of_point_processes_v1_2nd_ed._springer_2003.pdf'>link</a> |
 
 ## Previous Midterms
+
 | &nbsp; Semester &nbsp; | &nbsp; &nbsp; Questions                | Solutions                                      |
 | :--------------------  | :------------------------------------  | ---------------------------------------------: |
 | &nbsp; &nbsp; Fall 2022 &nbsp; &nbsp; | &nbsp; &nbsp; <a href='/assets/Fall2023/pdf/SP_Midterm_Fall2022.pdf'>link</a> | <a href='/assets/Fall2023/pdf/SP_Midterm_Solutions_Fall2022.pdf'>link</a> |
