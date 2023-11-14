@@ -34,7 +34,7 @@ nav_order: 3
 
 ## Previous Midterms
 
-| &nbsp; Semester &nbsp; | &nbsp; &nbsp; Questions                | Solutions                                      |
-| :--------------------  | :------------------------------------  | ---------------------------------------------: |
-| &nbsp; &nbsp; Fall 2022 &nbsp; &nbsp; | &nbsp; &nbsp; <a href='/assets/Fall2023/pdf/SP_Midterm_Fall2022.pdf'>link</a> | <a href='/assets/Fall2023/pdf/SP_Midterm_Solutions_Fall2022.pdf'>link</a> |
-| &nbsp; &nbsp; Fall 2021 &nbsp; &nbsp; | &nbsp; &nbsp; <a href='/assets/Fall2023/pdf/SP_Midterm_Fall2021.pdf'>link</a> | <a href='/assets/Fall2023/pdf/SP_Midterm_Solutions_Fall2021.pdf'>link</a> |
+| &nbsp; Semester &nbsp; | &nbsp; &nbsp; Questions                | &nbsp; &nbsp; Solutions                                      |
+| :--------------------  | :------------------------------------  | -----------------------------------------------------------: |
+| &nbsp; &nbsp; Fall 2022 &nbsp; &nbsp; | &nbsp; &nbsp; <a href='/assets/Fall2023/pdf/SP_Midterm_Fall2022.pdf'>link</a> | &nbsp; &nbsp; <a href='/assets/Fall2023/pdf/SP_Midterm_Solutions_Fall2022.pdf'>link</a> |
+| &nbsp; &nbsp; Fall 2021 &nbsp; &nbsp; | &nbsp; &nbsp; <a href='/assets/Fall2023/pdf/SP_Midterm_Fall2021.pdf'>link</a> | &nbsp; &nbsp; <a href='/assets/Fall2023/pdf/SP_Midterm_Solutions_Fall2021.pdf'>link</a> |
