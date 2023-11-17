@@ -14,6 +14,7 @@ nav_order: 4
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; HW1 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/HW1_SP_2023_Sol.pdf'>link</a> |
+| 02     | &nbsp; &nbsp; HW2 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/HW2_SP_2023_Sol.pdf'>link</a> |
 
 
 # Quizes
