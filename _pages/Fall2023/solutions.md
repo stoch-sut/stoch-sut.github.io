@@ -32,6 +32,7 @@ nav_order: 4
 
 
 # Exams
+
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Midterm &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/Stochastic_Fall2023_MIDTERM_SOLUTIONS.pdf'>link</a> |
