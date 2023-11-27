@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-11-12
+date: 2023-11-27
 inline: true
 ---
 
-Quiz6 will take place on 08/30 and Midterm will take place on 09/05.
+Quiz7 will take place on 09/12.
