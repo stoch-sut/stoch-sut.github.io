@@ -29,6 +29,8 @@ nav_order: 4
 | 05     | &nbsp; &nbsp; Quiz4 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz4_solution.pdf'>link</a> |
 | 06     | &nbsp; &nbsp; Quiz5 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz5_solution.pdf'>link</a> |
 | 07     | &nbsp; &nbsp; Quiz6 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz6_solution.pdf'>link</a> |
+| 08     | &nbsp; &nbsp; Quiz7 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz7_solution.pdf'>link</a> |
+
 
 
 # Exams
