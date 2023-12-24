@@ -33,6 +33,8 @@ nav_order: 4
 | 07     | &nbsp; &nbsp; Quiz6 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz6_solution.pdf'>link</a> |
 | 08     | &nbsp; &nbsp; Quiz7 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz7_solution.pdf'>link</a> |
 | 09     | &nbsp; &nbsp; Quiz8 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz8_solution.pdf'>link</a> |
+| 10     | &nbsp; &nbsp; Quiz9 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/quiz9_solution.pdf'>link</a> |
+
 
 
 
