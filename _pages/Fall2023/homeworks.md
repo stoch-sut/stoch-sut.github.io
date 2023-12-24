@@ -30,6 +30,9 @@ nav_order: 1
 
 
 
-<!--# Course Project
+# Course Project
 
-<p>Course project will be uploaded here</p> -->
+| Number | &nbsp; &nbsp; Topic                                                        | Link                                                                                     |  &nbsp; &nbsp; Deadline
+| :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: | ----------: |
+| 01   | &nbsp; &nbsp; Project &nbsp; &nbsp; | <a href='/assets/Fall2023/zip/Project_SP_2023.zip'>link</a> |  &nbsp; &nbsp; 11/05 |
+
