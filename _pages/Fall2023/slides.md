@@ -20,4 +20,5 @@ nav_order: 2
 | 07   | &nbsp; &nbsp; Estimation Theory 2 &nbsp; &nbsp; | <a href='/assets/Fall2023/pdf/Fall-2023-SP_Week_07_ET2.pdf'>link</a> |
 | 08   | &nbsp; &nbsp; Hypothesis Testing &nbsp; &nbsp; | <a href='/assets/Fall2023/pdf/Fall-2023-SP_Week_08_HT_v2.pdf'>link</a> |
 | 09   | &nbsp; &nbsp; Markov Chains and HMMs &nbsp; &nbsp; | <a href='/assets/Fall2023/pdf/Fall-2023-SP_Week_09_MC_HMM.pdf'>link</a> |
+| 10   | &nbsp; &nbsp; Sampling Methods &nbsp; &nbsp; | <a href='/assets/Fall2023/pdf/Fall-2023-SP_Week_10_SM.pdf'>link</a> |
 
