@@ -4,4 +4,4 @@ date: 2024-01-08
 inline: true
 ---
 
-Solution to HW5 has been uploaded on [Solutions](/solutions/) page.
+Solutions to HW5 and quiz10 have been uploaded on [Solutions](/solutions/) page.
