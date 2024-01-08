@@ -17,6 +17,8 @@ nav_order: 4
 | 02     | &nbsp; &nbsp; HW2 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/HW2_SP_2023_Sol.pdf'>link</a> |
 | 03     | &nbsp; &nbsp; HW3 &nbsp; &nbsp;| <a href='/assets/Fall2023/zip/HW3_SP_2023_Sol.zip'>link</a> |
 | 04     | &nbsp; &nbsp; HW4 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/HW4_SP_2023_Sol.pdf'>link</a> |
+| 05     | &nbsp; &nbsp; HW5 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/HW5_SP_2023_Sol.pdf'>link</a> |
+
 
 
 
