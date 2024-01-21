@@ -48,7 +48,7 @@ nav_order: 4
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Midterm &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/Stochastic_Fall2023_MIDTERM_SOLUTIONS.pdf'>link</a> |
-| 02     | &nbsp; &nbsp; Midterm &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/Stochastic_Fall2023_FINAL_SOLUTIONS.pdf'>link</a> |
+| 02     | &nbsp; &nbsp; Final &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/Stochastic_Fall2023_FINAL_SOLUTIONS.pdf'>link</a> |
 
 
 
