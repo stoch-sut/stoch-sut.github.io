@@ -31,7 +31,7 @@ You can also download main text book from <a href="/assets/Fall2023/zip/papoulis
         <ul>
            <li> <a href="mailto:fa.saligheh@gmail.com">Fatemeh Saligheh</a> </li>
   <li> <a href="mailto:rassa.gh@gmail.com">Rassa Ghavami</a> </li>
-  <li> <a href="mailto:ostadmohammadi@ce.sharif.edu">Mohammad Ostadmohammadi</a> </li>
+  <li> <a href="mailto:mohammad.ostad73@gmail.com">Mohammad Ostadmohammadi</a> </li>
   <li> <a href="mailto:sarafraz@ce.sharif.edu, gita.sarafraz@gmail.com">Gita Sarafraz</a> </li>
   <li> <a href="mailto:smjfas@gmail.com">S. Muhammed Javad Feyzabadi Sani</a> </li>
   <li> <a href="mailto:arminbehnamnia@gmail.com">Armin Behnamnia</a> </li>
