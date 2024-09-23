@@ -11,7 +11,7 @@ nav_order: 5
 ---
 # Previous Semesters Pages
 
-<!-- | &nbsp; &nbsp; Semester &nbsp; &nbsp;   | &nbsp; Link  &nbsp; |
+| &nbsp; &nbsp; Semester &nbsp; &nbsp;   | &nbsp; Link  &nbsp; |
 |---------------------------------------|----------: |
 | &nbsp; &nbsp; Fall 2022 &nbsp; &nbsp; | &nbsp; <a href='/Fall2022'>link</a> &nbsp; |
-| &nbsp; &nbsp; Fall 2023 &nbsp; &nbsp; | &nbsp; <a href='/Fall2023'>link</a> &nbsp; | -->
+| &nbsp; &nbsp; Fall 2023 &nbsp; &nbsp; | &nbsp; <a href='/Fall2023'>link</a> &nbsp; | 
