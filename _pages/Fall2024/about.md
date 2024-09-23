@@ -30,24 +30,24 @@ You can also download main text book from <a href="/assets/Fall2023/zip/papoulis
     <div style="flex: 1; padding: 3px;">
         <ul>
            <li> <a href="mailto:fa.saligheh@gmail.com">Fatemeh Saligheh</a> </li>
-  <li> <a href="mailto:rassa.gh@gmail.com">Rassa Ghavami</a> </li>
+  <li> <a href="mailto:rassa.gh@gmail.com">Rasa Ghavami</a> </li>
   <li> <a href="mailto:mohammad.ostad73@gmail.com">Mohammad Ostadmohammadi</a> </li>
   <li> <a href="mailto:sarafraz@ce.sharif.edu, gita.sarafraz@gmail.com">Gita Sarafraz</a> </li>
-  <li> <a href="mailto:smjfas@gmail.com">S. Muhammed Javad Feyzabadi Sani</a> </li>
+  <li> <a href="mailto:smjfas@gmail.com">S. Mohammed Javad Feyzabadi Sani</a> </li>
   <li> <a href="mailto:arminbehnamnia@gmail.com">Armin Behnamnia</a> </li>
   <li> <a href="mailto:zahra.dehghanian97@gmail.com">Zahra Dehghanian</a> </li>
-  <li> <a href="mailto:a.re.morteza@gmail.com">Morteza Abolqasemi</a> </li>
+  <li> <a href="mailto:a.re.morteza@gmail.com">Morteza Abolghasemi</a> </li>
         </ul>
     </div>
     <div style="flex: 1; padding: 3px;">
         <ul>
   <li> <a href="mailto:ali.derakhshesh79@gmail.com">Ali Derakhshesh</a> </li>
-  <li> <a href="mailto:hossein.azizi@gmail.com">Hossein AziziNaghsh</a> </li>
+  <li> <a href="mailto:hossein.azizi@gmail.com">Hossein Azizi Naghsh</a> </li>
   <li> <a href="mailto:77fetrat@gmail.com">Mahta Fetrat</a> </li>
   <li> <a href="mailto:mohamadreza.kamali79@sharif.edu">Mohammadreza Kamali</a> </li>
   <li> <a href="mailto:moeini.erfan@gmail.com">Erfan Moeini</a> </li>
   <li> <a href="mailto:a.asad@sharif.edu">Abolfazl Asad</a> </li>
-  <li> <a href="mailto:a.moradpour1378@gmail.com">Amirhossein Moradpor</a> </li>
+  <li> <a href="mailto:a.moradpour1378@gmail.com">Amirhossein Moradpour</a> </li>
   <li> <a href="mailto:mohammad.cheraghi80@gmail.com">Mohammad Cheraghi</a> </li>
         </ul>
     </div>
