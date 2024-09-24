@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Stochastic Processes
-permalink: /
+permalink: /Fall2023
 tags: Fall2023
 subtitle: Fall 2023 <br> Instructor <a href='http://sharif.edu/~rabiee/'>Hamid R. Rabiee</a>
 
