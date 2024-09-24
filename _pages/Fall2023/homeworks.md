@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Homework
-permalink: /hw/
+permalink: /Fall2023/hw/
 date:   2023-09-25
 description: homework section
 tags: Fall2023
