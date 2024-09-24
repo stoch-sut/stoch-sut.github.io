@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Solutions
-permalink: /solutions/
+permalink: /Fall2023/solutions/
 date:   2023-09-25
 description: quiz and homework solutions
 tags: Fall2023
