@@ -34,3 +34,4 @@ nav_order: 4
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Quiz0 (Prerequisite Quiz) &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q0_Fall2024_Sol.pdf'>link</a> |
+| 02     | &nbsp; &nbsp; Quiz1  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q1_Fall2024_Sol.pdf'>link</a> |
