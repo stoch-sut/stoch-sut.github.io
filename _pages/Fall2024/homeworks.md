@@ -14,11 +14,6 @@ nav_order: 1
 | Number | &nbsp; &nbsp; Topic                                                        | Link                                                                                     |  &nbsp; &nbsp; Deadline
 | :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: | ----------: |
 | 01   | &nbsp; &nbsp; Review of Probability &nbsp; &nbsp; | <a href='/assets/Fall2024/Hws/Stoch_HW1_Fall2024.pdf'>link</a> |  &nbsp; &nbsp; 07/20 |
-<!-- | 02  | &nbsp; &nbsp; Stochastic Processes and Stationary Stochastic Processes &nbsp; &nbsp; | <a href='/assets/Fall2024/pdf/HW2_SP_2023.pdf'>link</a> |  &nbsp; &nbsp; 08/09 |
-| 03   | &nbsp; &nbsp; Ergodic Stochastic Processes and Stochastic Analysis of LTI Systems and Power Spectrum &nbsp; &nbsp; | <a href='/assets/Fall2024/pdf/HW3_SP_2023.pdf'>link</a> |  &nbsp; &nbsp; 08/21 |
-| 04   | &nbsp; &nbsp; Estimation Theory &nbsp; &nbsp; | <a href='/assets/Fall2024/pdf/HW4_SP_2023.pdf'>link</a> |  &nbsp; &nbsp; 09/14 |
-| 05   | &nbsp; &nbsp; Hypothesis Testing and Markov Chains and HMM &nbsp; &nbsp; | <a href='/assets/Fall2024/pdf/HW5_SP_2023.pdf'>link</a> |  &nbsp; &nbsp; 10/05 |
-| 06   | &nbsp; &nbsp; Sampling Methods &nbsp; &nbsp; | <a href='/assets/Fall2024/pdf/HW6_SP_2023.pdf'>link</a> |  &nbsp; &nbsp; 10/19 | -->
 
 
 
