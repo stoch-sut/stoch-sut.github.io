@@ -13,7 +13,7 @@ nav_order: 1
 
 | Number | &nbsp; &nbsp; Topic                                                        | Link                                                                                     |  &nbsp; &nbsp; Deadline
 | :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: | ----------: |
-| 01   | &nbsp; &nbsp; Review of Probability &nbsp; &nbsp; | <a href='/assets/Fall2024/Hws/Stoch_HW1_Fall2024.pdf'>link</a> |  &nbsp; &nbsp; 07/20 |
+| 01   | &nbsp; &nbsp; Review of Probability &nbsp; &nbsp; | <a href='/assets/Fall2024/HWs/Stoch_HW1_Fall2024.pdf'>link</a> |  &nbsp; &nbsp; 07/20 |
 
 
 
