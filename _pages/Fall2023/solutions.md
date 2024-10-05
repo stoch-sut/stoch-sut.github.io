@@ -20,7 +20,7 @@ nav_order: 4
 | 04     | &nbsp; &nbsp; HW4 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/HW4_SP_2023_Sol.pdf'>link</a> |
 | 05     | &nbsp; &nbsp; HW5 &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/HW5_SP_2023_Sol.pdf'>link</a> |
 
-
+-->
 
 
 # Quizes
@@ -42,7 +42,7 @@ nav_order: 4
 
 
 
-
+<!--
 
 # Exams
 
