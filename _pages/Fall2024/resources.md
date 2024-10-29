@@ -32,6 +32,7 @@ nav_order: 3
 | 01     | &nbsp; &nbsp; Lecture Slides for Signals and Systems &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/lecture_slides_for_signals_and_systems.pdf'>link</a> |
 | 02     | &nbsp; &nbsp; An Introduction to the Theory of Point Processes &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/daley_d.j._vere-jones_d._an_intro_to_the_theory_of_point_processes_v1_2nd_ed._springer_2003.pdf'>link</a> |
 | 03     | &nbsp; &nbsp; Statistical Inference &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/George Casella, Roger L. Berger - Statistical Inference  -Duxbury Press (2001).pdf'>link</a> |
+| 04     | &nbsp; &nbsp; Signals & systems review &nbsp; &nbsp;| <a href='/assets/Fall2024/Signal-Sysytems-Review.pdf'>link</a> |
 
 
 <!-- ## Previous Midterms
