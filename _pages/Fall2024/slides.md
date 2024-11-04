@@ -15,4 +15,5 @@ nav_order: 2
 | 02   | &nbsp; &nbsp; Stochastic Processes and Stationary Stochastic Processes &nbsp; &nbsp; | <a href='/assets/Fall2024/slides/Fall_2024-SP_Week_02_SSS_WSS_v2.pdf'>link</a> |
 | 03   | &nbsp; &nbsp; Ergodic Stochastic Processes Stochastic Analysis of LTI Systems Power Spectrum &nbsp; &nbsp; | <a href='/assets/Fall2024/slides/Fall-2024-SP_Week_03_ESP_SLTI_PS.pdf'>link</a> |
 | 04   | &nbsp; &nbsp; Poisson Processes Point Process &nbsp; &nbsp; | <a href='/assets/Fall2024/slides/Fall-2024-SP_Week_04_PP_PP.pdf'>link</a> |
+| 05   | &nbsp; &nbsp; Poisson Processes Point Process &nbsp; &nbsp; | <a href='/assets/Fall2024/slides/Fall-2024-SP_Week_05_GP.pdf'>link</a> |
 
