@@ -17,14 +17,11 @@ nav_order: 4
 | 02     | &nbsp; &nbsp; HW2 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW2_sol_Fall2024.pdf'>link</a> |
 | 03     | &nbsp; &nbsp; HW3 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW3_sol_Fall2024.pdf'>link</a> |
 
-<!-- 
 # Exams
 
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
-| 01     | &nbsp; &nbsp; Midterm &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/Stochastic_Fall2023_MIDTERM_SOLUTIONS.pdf'>link</a> |
-| 02     | &nbsp; &nbsp; Final &nbsp; &nbsp;| <a href='/assets/Fall2023/pdf/Stochastic_Fall2023_FINAL_SOLUTIONS.pdf'>link</a> |
- -->
+| 01     | &nbsp; &nbsp; Midterm &nbsp; &nbsp;| <a href='/assets/Fall2024/Stoch_midterm_solution_Fall2024.pdf'>link</a> |
 
 
 # Quizes
