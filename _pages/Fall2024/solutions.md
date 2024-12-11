@@ -16,6 +16,7 @@ nav_order: 4
 | 01     | &nbsp; &nbsp; HW1 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW1_sol_Fall2024.pdf'>link</a> |
 | 02     | &nbsp; &nbsp; HW2 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW2_sol_Fall2024.pdf'>link</a> |
 | 03     | &nbsp; &nbsp; HW3 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW3_sol_Fall2024.pdf'>link</a> |
+| 04     | &nbsp; &nbsp; HW4 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW4_sol_Fall2024.pdf'>link</a> |
 
 # Exams
 
