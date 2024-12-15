@@ -37,5 +37,5 @@ nav_order: 4
 | 06     | &nbsp; &nbsp; Quiz5  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q5_Fall2024_Sol.pdf'>link</a> |
 | 07     | &nbsp; &nbsp; Quiz6  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q6_Fall2024_Sol.pdf'>link</a> |
 | 08     | &nbsp; &nbsp; Quiz7  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q7_Fall2024_Sol.pdf'>link</a> |
-
+| 09     | &nbsp; &nbsp; Quiz8  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q8_Fall2024_Sol.pdf'>link</a> |
 
