@@ -2,7 +2,7 @@
 layout: post
 title:  Course Slides
 permalink: /slides/
-date:   2023-09-25
+date:   2024-09-25
 description: course slides section
 tags: Fall2024
 categories:
