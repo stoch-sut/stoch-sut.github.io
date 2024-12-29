@@ -21,10 +21,10 @@ nav_order: 1
 
 # Practical Homework
 
-<!-- | Number | &nbsp; &nbsp; Topic                                                        | Link                                                                                     |  &nbsp; &nbsp; Deadline
+| Number | &nbsp; &nbsp; Topic                                                        | Link                                                                                     |  &nbsp; &nbsp; Deadline
 | :---- | :--------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: | ----------: |
 | 01   | &nbsp; &nbsp; Practical Homework 1 &nbsp; &nbsp; | <a href='/assets/Fall2024/zip/PHW1_SP_2023.zip'>link</a> |  &nbsp; &nbsp; 09/05 |
-| 01   | &nbsp; &nbsp; Practical Homework 2 &nbsp; &nbsp; | <a href='/assets/Fall2024/pdf/PHW2_SP_2023.pdf'>link</a> |  &nbsp; &nbsp; 10/08 | -->
+| 01   | &nbsp; &nbsp; Practical Homework 2 &nbsp; &nbsp; | <a href='/assets/Fall2024/pdf/PHW2_SP_2023.pdf'>link</a> |  &nbsp; &nbsp; 10/08 |
 
 
 
