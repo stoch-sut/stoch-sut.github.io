@@ -2,7 +2,7 @@
 layout: post
 title:  Resources
 permalink: /resources/
-date:   2025-10-11
+date:   2024-10-11
 description: textbooks and handouts
 tags: Fall2024
 categories:

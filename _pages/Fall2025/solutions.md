@@ -2,7 +2,7 @@
 layout: post
 title:  Solutions
 permalink: /solutions/
-date:   2025-10-11
+date:   2024-10-11
 description: quiz and homework solutions
 tags: Fall2025
 categories:
