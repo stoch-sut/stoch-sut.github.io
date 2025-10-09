@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Solutions
-permalink: /solutions/
+permalink: /Fall2024/solutions/
 date:   2024-09-19
 description: quiz and homework solutions
 tags: Fall2024

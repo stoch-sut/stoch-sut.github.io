@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Archive
-permalink: /prev/
+permalink: /Fall2024/prev/
 date:   2024-09-19
 description: previous semesters  section
 tags: Fall2024
