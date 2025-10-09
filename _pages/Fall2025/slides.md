@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Course Slides
-permalink: /Fall2024/slides/
+permalink: /slides/
 date:   2025-10-11
 description: course slides section
 tags: Fall2025
