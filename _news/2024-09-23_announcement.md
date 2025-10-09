@@ -1,7 +1,7 @@
 ---
 layout: post 
-date: 2024-09-23
+date: 2025-10-11
 inline: true 
 --- 
 
-You can join our Telegram group using this [link](https://t.me/Stochastic_Fall_2024) 💬.
+<!--You can join our Telegram group using this [link](https://t.me/Stochastic_Fall_2024) 💬. -->

@@ -2,7 +2,7 @@
 layout: post
 title:  Archive
 permalink: /prev/
-date:   2024-10-11
+date:   2025-10-11
 description: previous semesters  section
 tags: Fall2025
 categories:

@@ -1,11 +1,11 @@
 ---
 layout: post 
-date: 2024-09-24
+date: 2025-10-11
 inline: true 
 --- 
 
-🔥 The first TA class session will be held on Sunday, 07/08, from 12:30 to 13:30 in room 202.
+🔥 The first TA class session will be held on Sunday, from 12 to 13.
 
 ---
 
-📢 Please join the Quera class using this [link](https://quera.org/course/add_to_course/course/18888/)
+<!--📢 Please join the Quera class using this [link](https://quera.org/course/add_to_course/course/18888/)-->

@@ -2,7 +2,7 @@
 layout: post
 title:  Resources
 permalink: /resources/
-date:   2024-10-11
+date:   2025-10-11
 description: textbooks and handouts
 tags: Fall2024
 categories:
@@ -13,7 +13,7 @@ nav_order: 3
 
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
-| 01     | &nbsp; &nbsp; PROBABILITY, RANDOM VARIABLES, AND STOCHASTIC PROCESSES &nbsp; &nbsp;| <a href='/assets/Fall2024/Papoulis-Fourth.zip'>link</a> |
+| 01     | &nbsp; &nbsp; PROBABILITY, RANDOM VARIABLES, AND STOCHASTIC PROCESSES &nbsp; &nbsp;| <a href='/assets/Fall2025/Papoulis-Fourth.zip'>link</a> |
 
 
 <!---
