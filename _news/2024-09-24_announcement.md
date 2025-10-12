@@ -8,4 +8,4 @@ inline: true
 
 ---
 
-<!--📢 Please join the Quera class using this [link](https://quera.org/course/add_to_course/course/18888/)-->
+📢 Please join the Quera class using this [link](https://quera.org/course/add_to_course/course/23911/)
