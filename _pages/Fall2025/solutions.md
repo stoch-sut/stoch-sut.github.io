@@ -28,6 +28,7 @@ nav_order: 4
 | 02     | &nbsp; &nbsp; Final  &nbsp; &nbsp;| <a href='/assets/Fall2024/SP_Final_2024_Solution.pdf'>link</a> |
 
 -->
+---
 # Quizes
 
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
