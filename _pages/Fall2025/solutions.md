@@ -30,18 +30,7 @@ nav_order: 4
 -->
 ---
 # Quizes
+
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
-| 01     | &nbsp; &nbsp; Quiz0 (Prerequisite Quiz) &nbsp; &nbsp;| <a href='/assets/Fall2025/Quiz/Stoch_Q0_Fall2025_Sol.pdf'>link< a> |
-<!--
-| 02     | &nbsp; &nbsp; Quiz1  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q1_Fall2024_Sol.pdf'>link</a> |
-| 03     | &nbsp; &nbsp; Quiz2  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q2_Fall2024_Sol.pdf'>link</a> |
-| 04     | &nbsp; &nbsp; Quiz3  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q3_Fall2024_Sol.pdf'>link</a> |
-| 05     | &nbsp; &nbsp; Quiz4  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q4_Fall2024_Sol.pdf'>link</a> |
-| 06     | &nbsp; &nbsp; Quiz5  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q5_Fall2024_Sol.pdf'>link</a> |
-| 07     | &nbsp; &nbsp; Quiz6  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q6_Fall2024_Sol.pdf'>link</a> |
-| 08     | &nbsp; &nbsp; Quiz7  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q7_Fall2024_Sol.pdf'>link</a> |
-| 09     | &nbsp; &nbsp; Quiz8  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q8_Fall2024_Sol.pdf'>link</a> |
-| 10     | &nbsp; &nbsp; Quiz9  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q9_Fall2024_Sol.pdf'>link</a> |
-| 11     | &nbsp; &nbsp; Quiz10  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q10_Fall2024_Sol.pdf'>link</a> |
--->
+| 01     | &nbsp; &nbsp; Quiz0  &nbsp; &nbsp;| <a href='/assets/Fall2025/Quiz/Stoch_Q0_Fall2025_Sol.pdf'>link</a> |
