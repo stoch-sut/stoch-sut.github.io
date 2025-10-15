@@ -27,12 +27,13 @@ nav_order: 4
 | 01     | &nbsp; &nbsp; Midterm &nbsp; &nbsp;| <a href='/assets/Fall2024/Stoch_midterm_solution_Fall2024.pdf'>link</a> |
 | 02     | &nbsp; &nbsp; Final  &nbsp; &nbsp;| <a href='/assets/Fall2024/SP_Final_2024_Solution.pdf'>link</a> |
 
-
+-->
 # Quizes
 
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
-| 01     | &nbsp; &nbsp; Quiz0 (Prerequisite Quiz) &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q0_Fall2024_Sol.pdf'>link</a> |
+| 01     | &nbsp; &nbsp; Quiz0 (Prerequisite Quiz) &nbsp; &nbsp;| <a href='/assets/Fall2025/Quiz/Stoch_Q0_Fall2025_Sol.pdf'>link</a> |
+<!--
 | 02     | &nbsp; &nbsp; Quiz1  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q1_Fall2024_Sol.pdf'>link</a> |
 | 03     | &nbsp; &nbsp; Quiz2  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q2_Fall2024_Sol.pdf'>link</a> |
 | 04     | &nbsp; &nbsp; Quiz3  &nbsp; &nbsp;| <a href='/assets/Fall2024/Quiz/Stoch_Q3_Fall2024_Sol.pdf'>link</a> |
