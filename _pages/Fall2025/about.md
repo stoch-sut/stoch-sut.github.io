@@ -25,6 +25,8 @@ You can downlowd course syllabus here <a href="/assets/Fall2025/Stochastic2025_s
 
 You can also download main text book from <a href="/assets/Fall2025/Papoulis-Fourth.zip">here</a>.
 
+You can see the grades table from <a href="https://docs.google.com/spreadsheets/d/1dEflx5wN-SN0pLcf-XVl-nWwKZEnk2J_lLOZzmew-sY/edit?usp=sharing">here</a>.
+
 <h4>Staff</h4>
 <div style="display: flex;">
   <div style="flex: 1; padding: 3px;">
