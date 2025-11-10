@@ -11,9 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      # Let the Ruby gem reuse the Node binary for sass-embedded
-      SASS_EMBEDDED_SKIP_DOWNLOAD: "true"
-      # Make Bundler a bit more robust on CI
+      SASS_EMBEDDED_SKIP_DOWNLOAD: "true"   # let Ruby gem reuse Node binary
       BUNDLE_RETRY: "5"
       BUNDLE_TIMEOUT: "60"
       BUNDLE_WITHOUT: "development:test"
@@ -22,7 +20,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # Install Node sass-embedded so the Ruby gem can reuse it
+      # Node sass-embedded for jekyll-sass-converter v3+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -33,14 +31,14 @@ jobs:
           npm i -g sass-embedded@1.93.3
           npm i -g mermaid.cli
 
-      # Do NOT auto-run bundle yet
+      # Do NOT auto-run bundle here
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1.4'
           bundler-cache: false
 
-      # Cache Ruby gems between runs
+      # Cache gems
       - name: Cache bundle
         uses: actions/cache@v4
         with:
@@ -49,37 +47,41 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      # Tooling in case anything falls back to compile (harmless if unused)
-      - name: System build tools
+      - name: System build tools (fallback only)
         run: sudo apt-get update && sudo apt-get install -y build-essential
 
-      # Make sure RubyGems & Bundler are fresh BEFORE installing gems
+      # Fresh RubyGems & Bundler
       - name: Update RubyGems & Bundler
         run: |
           gem update --system 3.5.22
           gem install bundler -v 2.5.9 --no-document
 
-      # Use fast precompiled Linux nokogiri so loofah/html-pipeline install quickly
+      # (Optional) also skip docs for 'gem install' globally
+      - name: Create .gemrc to skip docs
+        run: echo "gem: --no-document" > ~/.gemrc
+
+      # Preinstall platform nokogiri (fast binary)
       - name: Preinstall platform nokogiri
-        run: |
-          gem install nokogiri -v "~> 1.16" --platform=x86_64-linux --no-document
+        run: gem install nokogiri -v "~> 1.16" --platform=x86_64-linux
 
-      # Preinstall sass-embedded so bundler doesn't try to fetch/build it
+      # Preinstall sass-embedded to avoid Bundler download hiccups
       - name: Preinstall sass-embedded
-        run: gem install sass-embedded -v 1.93.3 --no-document
+        run: gem install sass-embedded -v 1.93.3
 
-      # Ensure lockfile has Linux platform so Bundler prefers platform gems over source builds
+      # Ensure lockfile includes Linux platform so Bundler uses binary gems
       - name: Ensure lockfile has Linux platform
         run: |
           bundle lock --add-platform x86_64-linux
           bundle lock --add-platform ruby
 
-      # Now run bundle install (to vendor/bundle), no docs, more parallelism, verbose for visibility
+      # Bundle install (no --no-document flag here!)
       - name: Install deps
         run: |
           bundle config set path vendor/bundle
           bundle config set without "$BUNDLE_WITHOUT"
-          bundle install --jobs 4 --retry ${BUNDLE_RETRY:-5} --no-document --verbose
+          bundle config set jobs 4
+          bundle config set retry ${BUNDLE_RETRY:-5}
+          bundle install --verbose
 
       - name: Setup deploy options
         id: setup
