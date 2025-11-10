@@ -40,6 +40,15 @@ jobs:
 
       # If you prefer an explicit install step (kept here for clarity), leave it.
       # bundler-cache already installed, but this ensures the env var is honored.
+      - name: System build tools (fallback if gem needs to compile)
+        run: sudo apt-get update && sudo apt-get install -y build-essential
+      
+      - name: Update RubyGems & preinstall sass-embedded
+        run: |
+          gem update --system 3.5.22
+          # Preinstall the same version your lockfile wants (or latest)
+          gem install sass-embedded -v 1.93.3 --no-document
+
       - name: Install deps
         run: bundle install --jobs 4 --retry 3
 
