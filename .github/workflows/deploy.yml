@@ -79,7 +79,11 @@ jobs:
         run: |
           bundle config set path vendor/bundle
           bundle config set without "$BUNDLE_WITHOUT"
-          bundle config set jobs 4
+          bundle install --jobs 4 --retry ${BUNDLE_RETRY:-5} --verbose
+          bundle config set jobs 1           # avoid parallel_installer deadlocks
+          bundle install --jobs 1 --retry ${BUNDLE_RETRY:-5} --verbose
+          bundle show jemoji || true
+          bundle show feedjira || true
           bundle config set retry ${BUNDLE_RETRY:-5}
           bundle install --verbose
 
