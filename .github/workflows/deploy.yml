@@ -58,8 +58,8 @@ jobs:
 
       # (Optional) also skip docs for 'gem install' globally
       - name: Create .gemrc to skip docs
-        run: echo "gem: --no-document" > ~/.gemrc
-
+        run: 'echo "gem: --no-document" > ~/.gemrc'
+        
       # Preinstall platform nokogiri (fast binary)
       - name: Preinstall platform nokogiri
         run: gem install nokogiri -v "~> 1.16" --platform=x86_64-linux
