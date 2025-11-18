@@ -4,7 +4,7 @@ title:  Resources
 permalink: /resources/
 date:   2025-10-11
 description: textbooks and handouts
-tags: Fall2024
+tags: Fall2025
 categories:
 nav: true
 nav_order: 3
