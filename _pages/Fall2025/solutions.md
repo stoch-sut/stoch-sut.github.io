@@ -10,18 +10,14 @@ nav: true
 nav_order: 4
 ---
 # Theoretical Homework
-<!--
+
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
-| 01     | &nbsp; &nbsp; HW1 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW1_sol_Fall2024.pdf'>link</a> |
-| 02     | &nbsp; &nbsp; HW2 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW2_sol_Fall2024.pdf'>link</a> |
-| 03     | &nbsp; &nbsp; HW3 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW3_sol_Fall2024.pdf'>link</a> |
-| 04     | &nbsp; &nbsp; HW4 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW4_sol_Fall2024.pdf'>link</a> |
-| 05     | &nbsp; &nbsp; HW5 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW5_sol_Fall2024.pdf'>link</a> |
-| 06     | &nbsp; &nbsp; HW6 &nbsp; &nbsp;| <a href='/assets/Fall2024/HWs/Stoch_HW6_sol_Fall2024.pdf'>link</a> |
+| 01     | &nbsp; &nbsp; HW1 &nbsp; &nbsp;| <a href='/assets/Fall2025/HWs/Stoch_HW1_sol_Fall2025.pdf'>link</a> |
+| 02     | &nbsp; &nbsp; HW2 &nbsp; &nbsp;| <a href='/assets/Fall2025/HWs/Stoch_HW2_sol_Fall2025.pdf'>link</a> |
 
 # Exams
-
+<!--
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Midterm &nbsp; &nbsp;| <a href='/assets/Fall2024/Stoch_midterm_solution_Fall2024.pdf'>link</a> |
