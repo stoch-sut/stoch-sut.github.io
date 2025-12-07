@@ -17,3 +17,4 @@ nav_order: 2
 | 04   | &nbsp; &nbsp; Poisson Processes Point Process &nbsp; &nbsp; | <a href='/assets/Fall2025/slides/Fall-2025-SP_Week_04_PP_PP.pdf'>link</a> |
 | 05   | &nbsp; &nbsp; The Coupon Collector's Problem &nbsp; &nbsp; | <a href='/assets/Fall2025/slides/Fall-2025-SP_Week_05_CC.pdf'>link</a> |
 | 06   | &nbsp; &nbsp; Gaussian Processes &nbsp; &nbsp; | <a href='/assets/Fall2025/slides/Fall-2025-SP_Week_06_GP.pdf'>link</a> |
+| 07   | &nbsp; &nbsp; Estimation Theory 01 &nbsp; &nbsp; | <a href='/assets/Fall2025/slides/Fall-2024-SP_Week_06_ET.pdf'>link</a> |
