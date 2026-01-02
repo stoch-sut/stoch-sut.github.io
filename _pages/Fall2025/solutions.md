@@ -15,6 +15,9 @@ nav_order: 4
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; HW1 &nbsp; &nbsp;| <a href='/assets/Fall2025/HWs/Stoch_HW1_sol_Fall2025.pdf'>link</a> |
 | 02     | &nbsp; &nbsp; HW2 &nbsp; &nbsp;| <a href='/assets/Fall2025/HWs/Stoch_HW2_sol_Fall2025.pdf'>link</a> |
+| 03     | &nbsp; &nbsp; HW3 &nbsp; &nbsp;| <a href='/assets/Fall2025/HWs/Stoch_HW3_sol_Fall2025.pdf'>link</a> |
+| 04     | &nbsp; &nbsp; HW4 &nbsp; &nbsp;| <a href='/assets/Fall2025/HWs/Stoch_HW4_sol_Fall2025.pdf'>link</a> |
+
 
 # Exams
 <!--
@@ -34,3 +37,7 @@ nav_order: 4
 | 03     | &nbsp; &nbsp; Quiz2  &nbsp; &nbsp;| <a href='/assets/Fall2025/Quiz/Stoch_Q2_Fall2025_Sol.pdf'>link</a> |
 | 04     | &nbsp; &nbsp; Quiz3  &nbsp; &nbsp;| <a href='/assets/Fall2025/Quiz/Stoch_Q3_Fall2025_Sol.pdf'>link</a> |
 | 05     | &nbsp; &nbsp; Quiz4  &nbsp; &nbsp;| <a href='/assets/Fall2025/Quiz/Stoch_Q4_Fall2025_Sol.pdf'>link</a> |
+| 06     | &nbsp; &nbsp; Quiz5  &nbsp; &nbsp;| <a href='/assets/Fall2025/Quiz/Stoch_Q5_Fall2025_Sol.pdf'>link</a> |
+| 07     | &nbsp; &nbsp; Quiz6  &nbsp; &nbsp;| <a href='/assets/Fall2025/Quiz/Stoch_Q6_Fall2025_Sol.pdf'>link</a> |
+| 08     | &nbsp; &nbsp; Quiz7  &nbsp; &nbsp;| <a href='/assets/Fall2025/Quiz/Stoch_Q7_Fall2025_Sol.pdf'>link</a> |
+| 09     | &nbsp; &nbsp; Quiz8  &nbsp; &nbsp;| <a href='/assets/Fall2025/Quiz/Stoch_Q8_Fall2025_Sol.pdf'>link</a> |

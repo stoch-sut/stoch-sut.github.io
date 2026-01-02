@@ -20,3 +20,4 @@ nav_order: 2
 | 07   | &nbsp; &nbsp; Estimation Theory 01 &nbsp; &nbsp; | <a href='/assets/Fall2025/slides/Fall-2025-SP_Week_06_ET.pdf'>link</a> |
 | 08   | &nbsp; &nbsp; Estimation Theory 02 &nbsp; &nbsp; | <a href='/assets/Fall2025/slides/Fall-2025-SP_Week_07_ET2.pdf'>link</a> |
 | 09   | &nbsp; &nbsp; Hypothesis Testing &nbsp; &nbsp; | <a href='/assets/Fall2025/slides/Fall-2025-SP_Week_08_HT.pdf'>link</a> |
+| 10   | &nbsp; &nbsp; Markov Chains & HMMs &nbsp; &nbsp; | <a href='/assets/Fall2025/slides/Fall-2025-SP_Week_09_MC_HMM.pdf'>link</a> |
