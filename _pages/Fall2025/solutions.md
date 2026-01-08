@@ -23,12 +23,6 @@ nav_order: 4
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Midterm &nbsp; &nbsp;| <a href='/assets/Fall2025/Stoch_midterm_solution_Fall2025.pdf'>link</a> |
-<!--
-
-| 02     | &nbsp; &nbsp; Final  &nbsp; &nbsp;| <a href='/assets/Fall2024/SP_Final_2024_Solution.pdf'>link</a> |
-
--->
----
 # Quizes
 
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
