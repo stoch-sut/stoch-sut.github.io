@@ -18,11 +18,12 @@ nav_order: 4
 | 03     | &nbsp; &nbsp; HW3 &nbsp; &nbsp;| <a href='/assets/Fall2025/HWs/Stoch_HW3_sol_Fall2025.pdf'>link</a> |
 | 04     | &nbsp; &nbsp; HW4 &nbsp; &nbsp;| <a href='/assets/Fall2025/HWs/Stoch_HW4_sol_Fall2025.pdf'>link</a> |
 
-
 # Exams
+
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
 | :----  | :---------------------------------------------------------------  | ---------------------------------------------: |
 | 01     | &nbsp; &nbsp; Midterm &nbsp; &nbsp;| <a href='/assets/Fall2025/Stoch_midterm_solution_Fall2025.pdf'>link</a> |
+
 # Quizes
 
 | Number | &nbsp; &nbsp; Name                                                | Link                                           |
