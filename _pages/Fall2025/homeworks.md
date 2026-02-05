@@ -17,7 +17,7 @@ nav_order: 1
 | 02   | &nbsp; &nbsp; Stationary Stochastic Processes, Stochastic Analysis of System &nbsp; &nbsp; | <a href='/assets/Fall2025/HWs/Stoch_HW2_Fall2025.pdf'>link</a> |  &nbsp; &nbsp; 08/04 |
 | 03   | &nbsp; &nbsp; Point Process, Poisson Process, Gaussian Process &nbsp; &nbsp; | <a href='/assets/Fall2025/HWs/Stoch_HW3_Fall2025.pdf'>link</a> |  &nbsp; &nbsp; 08/21 |
 | 04   | &nbsp; &nbsp; Estimation Theory &nbsp; &nbsp; | <a href='/assets/Fall2025/HWs/Stoch_HW4_Fall2025.pdf'>link</a> |  &nbsp; &nbsp; 09/17 |
-| 05   | &nbsp; &nbsp; Hypothesis Testing &nbsp; &nbsp; | <a href='/assets/Fall2025/HWs/Stoch_HW5_Fall2025_v.pdf'>link</a> |  &nbsp; &nbsp; 10/17 |
+| 05   | &nbsp; &nbsp; Hypothesis Testing &nbsp; &nbsp; | <a href='/assets/Fall2025/HWs/Stoch_HW5_Fall2025_v.pdf'>link</a> |  &nbsp; &nbsp; 10/18 |
 
 
 # Practical Homework
