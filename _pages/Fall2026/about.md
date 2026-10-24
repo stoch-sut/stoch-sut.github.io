@@ -45,7 +45,7 @@ You can also download main text book from <a href="/assets/Fall2026/Papoulis-Fou
       <li><a href="mailto:mohammad.ostad73@gmail.com">Mohammad Ostadmohammadi</a></li>
       <li><a href="mailto:a.re.morteza@gmail.com">Morteza Abolghasemi</a></li>
       <li><a href="mailto:hossein.azizi@gmail.com">Hossein Azizi Naghsh</a></li>
-      <li>Soheil Sayah Varg</li>
+      <li><a href="mailto:soheilsayahvarg@gmail.com">Soheil Sayah Varg</a></li>
       <li><a href="mailto:arminbehnamnia@gmail.com">Armin Behnamnia</a></li>
       <li><a href="mailto:smjfas@gmail.com">S. Mohammed Javad Feyzabadi Sani</a></li>
     </ul>
