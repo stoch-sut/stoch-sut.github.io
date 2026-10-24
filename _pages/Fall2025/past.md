@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Archive
-permalink: /prev/
+permalink: /Fall2025/prev/
 date:   2025-10-11
 description: previous semesters  section
 tags: Fall2025

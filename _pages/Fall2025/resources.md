@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Resources
-permalink: /resources/
+permalink: Fall2025/resources/
 date:   2025-10-11
 description: textbooks and handouts
 tags: Fall2025
