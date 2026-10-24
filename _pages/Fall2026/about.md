@@ -31,6 +31,8 @@ You can also download main text book from <a href="/assets/Fall2026/Papoulis-Fou
   <div style="flex: 1; padding: 3px;">
     <ul>
       <li><a href="mailto:elhamabolhasani1999@gmail.com">Elham Abolhasani</a></li>
+      <li><a href="mailto:77fetrat@gmail.com">Mahta Fetrat (Head)</a></li>
+      <li>Narges Kari</li>
       <li><a href="mailto:amirvahedi81328@gmail.com">Amir Vahedi</a></li>
       <li><a href="mailto:mrafiei@ce.sharif.edu">Mina Rafiei</a></li>
       <li>Amirhossein Tighkhorshid</li>
