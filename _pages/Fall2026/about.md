@@ -31,29 +31,23 @@ You can also download main text book from <a href="/assets/Fall2026/Papoulis-Fou
   <div style="flex: 1; padding: 3px;">
     <ul>
       <li><a href="mailto:elhamabolhasani1999@gmail.com">Elham Abolhasani</a></li>
-      <li><a href="mailto:fa.saligheh@gmail.com">Fatemeh Saligheh</a></li>
-      <li><a href="mailto:rassa.gh@gmail.com">Rassa Ghavami</a></li>
+      <li><a href="mailto:amirvahedi81328@gmail.com">Amir Vahedi</a></li>
       <li><a href="mailto:mrafiei@ce.sharif.edu">Mina Rafiei</a></li>
-      <li><a href="mailto:sarafraz@ce.sharif.edu">Gita Sarafraz</a></li>
-      <li><a href="mailto:smjfas@gmail.com">S. Muhammed Javad Feyzabadi Sani</a></li>
-      <li><a href="mailto:arminbehnamnia@gmail.com">Armin Behnamnia</a></li>
-      <li><a href="mailto:zahra.dehghanian97@gmail.com">Zahra Dehghanian</a></li>
-      <li><a href="mailto:hossein.azizi@gmail.com">Hossein Azizi Naghsh</a></li>
-      <li><a href="mailto:77fetrat@gmail.com">Mahta Fetrat</a></li>
+      <li>Amirhossein Tighkhorshid</li>
+      <li><a href="mailto:fa.saligheh@gmail.com">Fatemeh Saligheh</a></li>
+      <li><a href="mailto:amirreza.vishteh@ce.sharif.edu">Amirreza Vishteh</a></li>
+      <li>Saba Yousefzade</li>
     </ul>
   </div>
   <div style="flex: 1; padding: 3px;">
     <ul>
-      <li><a href="mailto:a.asad@sharif.edu">Abolfazl Asad</a></li>
-      <li><a href="mailto:a.moradpour1378@gmail.com">Amirhossein Moradpour</a></li>
-      <li><a href="mailto:mohammad.cheraghi80@gmail.com">Mohammad Cheraghi</a></li>
-      <li><a href="mailto:a.re.morteza@gmail.com">Morteza Abolghasemi</a></li>
-      <li><a href="mailto:amirvahedi81328@gmail.com">Amir Vahedi</a></li>
       <li><a href="mailto:pouya.ardehkhani02@sharif.edu">Pouya Ardehkhani</a></li>
-      <li><a href="mailto:amirreza.vishteh@ce.sharif.edu">Amirreza Vishteh</a></li>
-      <li><a href="mailto:alireza15farajtabrizi@gmail.com">Alireza Fraj Tabizi</a></li>
-      <li><a href="mailto:zeinalpour.mo@gmail.com">Mohammad Zeinalpour</a></li>
+      <li><a href="mailto:mohammad.ostad73@gmail.com">Mohammad Ostadmohammadi</a></li>
+      <li><a href="mailto:a.re.morteza@gmail.com">Morteza Abolghasemi</a></li>
+      <li><a href="mailto:hossein.azizi@gmail.com">Hossein Azizi Naghsh</a></li>
+      <li>Soheil Sayah Varg</li>
+      <li><a href="mailto:arminbehnamnia@gmail.com">Armin Behnamnia</a></li>
+      <li><a href="mailto:smjfas@gmail.com">S. Mohammed Javad Feyzabadi Sani</a></li>
     </ul>
   </div>
 </div>
-
