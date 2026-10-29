@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page -->
 This course covers the analysis of stochastic proceses as a random process and their different forms and examples are discussed. Also some relavant subjects such as estimation theory and hypothesis are compehensively studied.
 
 <!-- You can downlowd course syllabus <a href="/assets/Fall2024/pdf/Fall-2023_Syllabus_Stocahstic_Processes_Rabiee.pdf">here</a>. -->
-You can downlowd course syllabus here <a href="/assets/Fall2025/Stochastic2026_syllabus.pdf">here</a>.
+You can downlowd course syllabus here <a href="https://docs.google.com/spreadsheets/d/1N6Z8_ymzNeBAJ7LO5qM9OXxyrj4HsKXKqqbQac_Nasc">here</a>.
 
 You can also download main text book from <a href="/assets/Fall2026/Papoulis-Fourth.zip">here</a>.
 
@@ -32,13 +32,13 @@ You can also download main text book from <a href="/assets/Fall2026/Papoulis-Fou
     <ul>
       <li><a href="mailto:elhamabolhasani1999@gmail.com">Elham Abolhasani</a></li>
       <li><a href="mailto:77fetrat@gmail.com">Mahta Fetrat (Head)</a></li>
-      <li>Narges Kari</li>
+      <li><a href="mailto:Narges.kari@ce.sharif.edu">Narges Kari</a></li>
       <li><a href="mailto:amirvahedi81328@gmail.com">Amir Vahedi</a></li>
       <li><a href="mailto:mrafiei@ce.sharif.edu">Mina Rafiei</a></li>
-      <li>Amirhossein Tighkhorshid</li>
+      <li><a href="mailto:amirhossein.tighkhorshid@ce.sharif.edu">Amirhossein Tighkhorshid</a></li>
       <li><a href="mailto:fa.saligheh@gmail.com">Fatemeh Saligheh</a></li>
       <li><a href="mailto:amirreza.vishteh@ce.sharif.edu">Amirreza Vishteh</a></li>
-      <li>Saba Yousefzade</li>
+      <li><a href="mailto:sbyousef83@gmail.com">Saba Yousefzade</a></li>
     </ul>
   </div>
   <div style="flex: 1; padding: 3px;">
