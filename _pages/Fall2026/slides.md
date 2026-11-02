@@ -13,5 +13,5 @@ nav_order: 2
 
 | Number | &nbsp; &nbsp; Topic | Link |
 | :---- | :--------- | -------: |
-| 1 | &nbsp; &nbsp; Fall 2026 SP Week 01 Review Probability Intro SP &nbsp; &nbsp; | <a href='/assets/Fall2026/slides/Fall-2026-SP_Week_01_Review_Probability_Intro_SP.pptx'>link</a> |
-| 2 | &nbsp; &nbsp; Fall 2026 SP Week 02 SSS WSS &nbsp; &nbsp; | <a href='/assets/Fall2026/slides/Fall-2026-SP_Week_02_SSS_WSS.pptx'>link</a> |
+| 1 | &nbsp; &nbsp; Fall 2026 SP Week 01 Review Probability Intro SP &nbsp; &nbsp; | <a href='/assets/Fall2026/slides/Fall-2026-SP_Week_01_Review_Probability_Intro_SP.pdf'>link</a> |
+| 2 | &nbsp; &nbsp; Fall 2026 SP Week 02 SSS WSS &nbsp; &nbsp; | <a href='/assets/Fall2026/slides/Fall-2026-SP_Week_02_SSS_WSS.pdf'>link</a> |
