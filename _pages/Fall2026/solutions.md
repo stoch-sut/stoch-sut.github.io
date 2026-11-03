@@ -22,4 +22,4 @@ nav_order: 4
 # Quizes
 
 | Number | &nbsp; &nbsp; Name | Link |
-| :----  | :------- | -------: |
+| :----  | :------- | -------: || 0 | &nbsp; &nbsp; Quiz 0 &nbsp; &nbsp; | <a href='/assets/Fall2026/Quiz/Quiz0.pdf'>Questions</a> / <a href='/assets/Fall2026/Quiz/Quiz0-solution.pdf'>Solutions</a> |
