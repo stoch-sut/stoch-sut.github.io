@@ -25,4 +25,4 @@ nav_order: 4
 | :----  | :------- | -------: |
 | 0 | &nbsp; &nbsp; Quiz 0 &nbsp; &nbsp; | <a href='/assets/Fall2026/Quiz/Quiz0.pdf'>Questions</a> / <a href='/assets/Fall2026/Quiz/Quiz0-solution.pdf'>Solutions</a> |
 | 1 | &nbsp; &nbsp; Quiz 1 &nbsp; &nbsp; | <a href='/assets/Fall2026/Quiz/quiz_1.pdf'>Questions</a> / <a href='/assets/Fall2026/Quiz/quiz_solutions_1.pdf'>Solutions</a> |
-| 2 | &nbsp; &nbsp; Quiz 2 &nbsp; &nbsp; | <a href='/assets/Fall2026/Quiz/Stoch_Quiz_2_Fall_2026.pdf'>Questions</a> / <a href='/assets/Fall2026/Quiz/Stoch_Quiz_2_Fall_2026_solution.pdf'>Solutions</a> |
+| 2 | &nbsp; &nbsp; Quiz 2 &nbsp; &nbsp; | <a href='/assets/Fall2026/Quiz/Stoch_Fall_2026_Quiz_2.pdf'>Questions</a> / <a href='/assets/Fall2026/Quiz/Stoch_Fall_2026_Quiz_2_Solution.pdf'>Solutions</a> |
