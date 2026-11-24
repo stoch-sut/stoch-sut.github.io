@@ -13,6 +13,7 @@ nav_order: 4
 
 | Number | &nbsp; &nbsp; Name | Link |
 | :----  | :------- | -------: |
+| 0 | &nbsp; &nbsp; HW 1 &nbsp; &nbsp; | <a href='/assets/Fall2026/HW/Stoch_2026_HW1.pdf'>Questions</a> / <a href='/assets/Fall2026/HW/Stoch_2026_HW1_Solution.pdf'>Solutions</a> |
 
 # Exams
 
